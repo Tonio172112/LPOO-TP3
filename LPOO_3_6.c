@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-//se me borro todo y ni ganas de poner el enunciado :p
-
 int count(char *arr,char L);
 
 int main(){
